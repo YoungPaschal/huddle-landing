@@ -1,0 +1,219 @@
+.body{
+    background-color: beige;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    border:solid 1px;
+    height: 570px;
+    width: 400px;
+    position: sticky;
+    background-color: white;
+    border:solid 1px ;
+    margin-top: 30px;
+    margin-left: 200px;
+    position:absolute ;
+    border: 0px;
+}
+.fans{
+    border: 0px;
+    background-color: palevioletred;
+    box-shadow: 20px;
+}
+.button{
+    height: 16px;
+    border-radius: 30px;
+    color: hsl(322, 100%, 66%);
+    border: solid 1px hsl(322, 100%, 66%);
+    margin-left: 320px;
+    margin-top: 10px;
+    background-color: white;
+    width: 70px;
+    font-size: 8px;
+}
+.button:hover{
+    background-color: aquamarine;
+    border: 0px;
+    font-size: 12px;
+    height: 30px;
+    width: 100px;
+    color: blue;
+}
+.logo{
+    display: flex;
+    position: absolute;
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Huddl{
+    margin-left: 35px;
+    font-size: 20px;
+    margin-top: 0px;
+    display: flex;
+    position: absolute;
+}
+.mock{
+    width: 300px;
+    align-items: center;
+    margin-left: 60px;
+    height: 200px;
+    margin-top: 10px;
+}
+.the{
+    align-items: center;
+    text-align: center;
+}
+.color{
+    display: flex;
+    flex-direction: row;
+    border: solid 1px;
+    padding: 2px;
+    height: 550px;
+    width: 400px;
+    margin-left: 590px;
+    margin-top: 0px;
+    background-color: white;
+    border: 0px;
+}
+.class{
+    display: flex;
+}
+.build{
+    font-size: 17px;
+    margin-top: 30px;
+}
+.Huddle{
+    font-size: 8px;
+}
+.Started{
+    height: 35px;
+    color: white;
+    background-color:hsl(322, 100%, 66%);
+    border-radius: 30px;
+    border: 0px;
+    margin-top: 20px;
+    width: 170px;
+    font-size: 10px;
+}
+.Started:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.Formed{
+    display: flex;
+    flex-direction: row;
+}
+.communities{
+    font-size: 24px;
+    margin-left: 50px;
+}
+.div{
+    font-size: 10px;
+    margin-left: 50px;
+}
+.men{
+    font-size: 24px;
+    margin-left: 90px;
+}
+.message{
+    font-size: 10px;
+    margin-left: 95px;
+}
+.together{
+    margin-top: 40px;
+    font-size: 8px;
+    font-weight: 90px;
+    background-image: url("./images/bg-section-bottom-desktop-1.svg");
+    background-position: center ;
+    background-size: 3000px;
+    background-repeat: no-repeat;
+    
+}
+.grow{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.ful{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+.genuin{
+    width: 120px;
+    margin-left: 120px;
+    margin-top: 25px;
+    display: flex;
+    position: absolute;
+}
+.desktop{
+    width: 400px;
+    height: 20px;
+}
+.conversation{
+    width: 150px;
+    display: flex;
+    position: absolute;
+    height: 90px;
+    margin-top: 0px;
+}
+.flowing{
+    font-size: 8px;
+    text-align: center;
+    margin-left: 150px;
+    font-weight: 100px;
+}
+.icon{
+    width: 16px;
+    margin-left: 50px;
+}
+.svg{
+    width: 16px;
+    margin-left: 90px;
+}
+.illustration{
+    width: 150px;
+    position: absolute;
+    display: flex;
+    margin-left: 210px;
+    margin-top: 70px;
+}
+.hunger{
+    margin-top: 100px;
+    font-size: 8px;
+    margin-left: 10px;
+    font-weight: 100px;
+}
+.for{
+    text-align: center;
+    margin-top: 60px;
+}
+.botton{
+    height: 35px;
+    color: white;
+    background-color:hsl(322, 100%, 66%);
+    border-radius: 30px;
+    border: 0px;
+    width: 170px;
+    font-size: 10px;
+}
+.tqo{
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    margin-top: 30px;
+    height: 175px;
+    background-image: url("./images/bg-footer-top-desktop.svg");
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: 5000px;
+    backdrop-filter: initial;
+    color: white;   
+}
+.last{
+    width: 50%;
+    display: flex;
+}
+.laxt{
+    width: 120px;
+}
